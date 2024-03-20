@@ -1,2 +1,11 @@
-~*.*
+# Ignorer les fichiers temporaires
+*.tmp
 
+# Ignorer les fichiers main pour les exercices Holberton
+*-main.c
+
+# Ignorer les fichiers éxécutables
+*
+
+# Ignorer les fichiers cassées
+~*.*
